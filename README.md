@@ -7,9 +7,11 @@
 </a>
 
 <p>
-  <a href="https://mundowp.com.br/"><img src="https://img.shields.io/badge/Site-Mundo%20WP-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site" /></a>
+  <a href="https://robertodutra.dev/"><img src="https://img.shields.io/badge/Site-robertodutra.dev-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site" /></a>
+  <a href="https://www.linkedin.com/in/dutraroberto/"><img src="https://img.shields.io/badge/LinkedIn-dutraroberto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/rd.robertodutra/"><img src="https://img.shields.io/badge/Instagram-rd.robertodutra-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:rd.robertodutra@gmail.com"><img src="https://img.shields.io/badge/E--mail-rd.robertodutra%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
   <a href="https://www.youtube.com/@Mundo_WP"><img src="https://img.shields.io/badge/YouTube-Mundo__WP-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://instagram.com/robertodutra.rd"><img src="https://img.shields.io/badge/Instagram-robertodutra.rd-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 </div>
@@ -32,16 +34,8 @@ Sou desenvolvedor **frontend** de Anápolis (GO), apaixonado por criar experiên
   <img src="https://skillicons.dev/icons?i=wordpress,php,git,github,figma,vscode,rust,linux&perline=8" alt="Outras ferramentas" />
 </p>
 
-## 🚀 Projetos em destaque
-
-| Projeto | Descrição | Stack |
-| --- | --- | --- |
-| [**wp-vsl-player**](https://github.com/dutraroberto/wp-vsl-player) | Plugin WordPress que transforma o player do YouTube em um player focado em vendas (VSL). | PHP · JS |
-| [**contador-de-horas**](https://github.com/dutraroberto/contador-de-horas) | Extensão para consultores registrarem horas e calcularem o valor a cobrar automaticamente. | JavaScript |
-| [**simple_option_page**](https://github.com/dutraroberto/simple_option_page) | Plugin para gerenciar informações de contato com integração ao Elementor. | PHP |
-
 ## 🤝 Vamos conversar?
 
-Estou aberto a projetos freelance e oportunidades com **frontend / Next.js**. Me chama em qualquer uma das redes acima!
+Estou aberto a projetos freelance e oportunidades com **frontend / Next.js**. Me chama pelo e-mail **[rd.robertodutra@gmail.com](mailto:rd.robertodutra@gmail.com)**, no **[LinkedIn](https://www.linkedin.com/in/dutraroberto/)** ou confira meu trabalho em **[robertodutra.dev](https://robertodutra.dev/)**.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%" alt="" />
