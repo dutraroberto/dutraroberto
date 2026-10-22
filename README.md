@@ -9,7 +9,7 @@
 <p>
   <a href="https://robertodutra.dev/"><img src="https://img.shields.io/badge/Site-robertodutra.dev-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site" /></a>
   <a href="https://www.linkedin.com/in/dutraroberto/"><img src="https://img.shields.io/badge/LinkedIn-dutraroberto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/rd.robertodutra/"><img src="https://img.shields.io/badge/Instagram-rd.robertodutra-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.instagram.com/robertodutra.rd/"><img src="https://img.shields.io/badge/Instagram-robertodutra.rd-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:rd.robertodutra@gmail.com"><img src="https://img.shields.io/badge/E--mail-rd.robertodutra%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
   <a href="https://www.youtube.com/@Mundo_WP"><img src="https://img.shields.io/badge/YouTube-Mundo__WP-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </p>
