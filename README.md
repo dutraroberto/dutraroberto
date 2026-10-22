@@ -40,15 +40,6 @@ Sou desenvolvedor **frontend** de Anápolis (GO), apaixonado por criar experiên
 | [**contador-de-horas**](https://github.com/dutraroberto/contador-de-horas) | Extensão para consultores registrarem horas e calcularem o valor a cobrar automaticamente. | JavaScript |
 | [**simple_option_page**](https://github.com/dutraroberto/simple_option_page) | Plugin para gerenciar informações de contato com integração ao Elementor. | PHP |
 
-## 📊 Estatísticas
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dutraroberto&show_icons=true&hide_border=true&theme=tokyonight&locale=pt-br&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dutraroberto&layout=compact&hide_border=true&theme=tokyonight&locale=pt-br" alt="Linguagens mais usadas" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=dutraroberto&hide_border=true&theme=tokyonight&locale=pt_BR" alt="Sequência de contribuições" />
-</div>
-
 ## 🤝 Vamos conversar?
 
 Estou aberto a projetos freelance e oportunidades com **frontend / Next.js**. Me chama em qualquer uma das redes acima!
